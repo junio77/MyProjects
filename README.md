@@ -1,8 +1,8 @@
 # MyProjects
 Projects I have worked on during my time in Ngee Ann Polytechnic
 
-CSS Assignment in Year 1 Semester 2
+Client Side Scripting Assignment 
 https://github.com/jq058/CSS-ASSG-latest
 
-Programming Assignment in Year 1 Semester 2
+Programming Assignment
 https://github.com/orioogg/PRG2_ASSG
